@@ -14,7 +14,8 @@
     "lavalink",
     "shoukaku",
     "bot",
-    "music"
+    "music",
+    "node"
   ],
   "bugs": "https://github.com/dawgcodes",
   "homepage": "https://github.com/dawgcodes",
